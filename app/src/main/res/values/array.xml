@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="retos">
+        <item>Жди денег</item>
+        <item>Осторожно</item>
+        <item>Смотри вперед</item>
+        <item>Все будет хорошо</item>
+        <item>Ты найдешь свою дорогу</item>
+        <item>Ты найдешь свое счастье</item>
+        <item>Ты выучишь Kotlin</item>
+        <item>Ты выучишь java</item>
+        <item>Ты потеряешь деньги</item>
+        <item>Любовь</item>
+        <item>Новое знакомство</item>
+        <item>Ты выучишь AndroidStudio</item>
+
+    </string-array>
+</resources>
